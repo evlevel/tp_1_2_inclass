@@ -2,7 +2,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Before;
 import org.junit.Test;
-
+// comment by seis-635
 public class RollTest
 {
 	private Roll roll;

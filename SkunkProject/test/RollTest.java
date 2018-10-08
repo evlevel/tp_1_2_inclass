@@ -5,6 +5,7 @@ import org.junit.Test;
 // comment by seis-635
 public class RollTest
 {
+// another comment by evlevel
 	private Roll roll;
 
 	@Before
